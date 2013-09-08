@@ -1,0 +1,25 @@
+ul{
+	margin-bottom:20px;
+	overflow:hidden;
+}
+li{
+	line-height:128px;
+	float:left;
+	display:inline;
+	margin-left: 104px;
+}
+
+a {fill: #333333;} 
+
+a:hover {fill: #268ED4;}
+
+#wrapper {
+	margin:auto;
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
