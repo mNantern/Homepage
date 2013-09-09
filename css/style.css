@@ -1,12 +1,14 @@
 ul{
-	margin-bottom:20px;
+	margin-bottom:10%;
 	overflow:hidden;
 }
 li{
-	line-height:128px;
 	float:left;
 	display:inline;
-	margin-left: 104px;
+	margin-left: 10%;
+    display: inline-block;
+    position: relative;
+    width: 20%;
 }
 
 a {fill: #333333;} 
@@ -16,10 +18,12 @@ a:hover {fill: #268ED4;}
 #wrapper {
 	margin:auto;
 	width: 50%;
-	height: 50%;
+	height: 60%;
 	position: absolute;
 	top:0;
 	bottom: 0;
 	left: 0;
 	right: 0;
 }
+
+@media (max-width:600px){#wrapper{width:80%;margin-left:10%;}
