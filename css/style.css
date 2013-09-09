@@ -4,4 +4,4 @@ li{float:left;display:inline;margin-left: 10%;display: inline-block;position: re
 a {fill: #333333;}
 a:hover {fill: #268ED4;}
 #wrapper {margin:auto;width: 50%;height: 60%;position: absolute;top:0;bottom: 0;left: 0;right: 0;}
-@media (max-width:600px){#wrapper{width:80%;}li{height:2em;}}
+@media (max-width:600px){#wrapper{width:80%;}li{height:6em;}}
