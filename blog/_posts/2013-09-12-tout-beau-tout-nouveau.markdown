@@ -5,7 +5,7 @@ date:   2013-09-12 11:15:00
 categories: fr
 excerpt: premier post sur mon nouveau blog construit grâce à Jekyll
 ---
-![Jekyll]({{ site.baseurl }}{{ site.url }}/assets/jekyll.png)
+![Jekyll]({{ site.url }}/assets/jekyll.png)
 
 Ceci est mon premier post sur mon nouveau blog construit grâce à [Jekyll](http://jekyllrb.com) et hébergé sur un Raspberry Pi. Il manque encore pas mal de choses comme migrer les quelques articles que j'avais produit sur [Kovda](http://kovda.blogspot.fr/) ou ajouter les commentaires (même si je ne suis pas sûr que ça serve beaucoup).
 
