@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Puppet, RedHat et le dossier limits.d"
-date:   2014-27-04 23:00:00
+date:   2014-01-27 23:00:00
 categories: fr
 excerpt: Cette semaine j'ai voulu installer Oracle 11g avec Puppet sur RedHat en utilisant le dossier limits.d
 ---
