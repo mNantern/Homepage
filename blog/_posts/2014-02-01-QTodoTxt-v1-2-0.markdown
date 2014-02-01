@@ -5,7 +5,7 @@ date:   2014-02-01 22:00:00
 categories: en
 excerpt: Two weeks ago I released v1.2.0 of QTodoTxt a cross-platform UI client for todo.txt files with a lot of new features !
 ---
-![QTodoTxt_logo]({{site.url}}/assets/qtodotxt.png)
+![QTodoTxt_logo]({{site.url}}/assets/QTT256.png)
 
 
 QTodoTxt is my side project for one year now and I must say it grows quite well ! It provides a cross-platform UI client for todo.txt files (see [todo.txt](http://todotxt.com/) for more).
