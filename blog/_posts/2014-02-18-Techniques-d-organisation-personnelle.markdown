@@ -3,15 +3,15 @@ layout: post
 title:  "Techniques d'organisation personnelle"
 date:   2014-02-19 07:00:00
 categories: fr
-excerpt: Les jours sont courts alors pour en profiter un maximum il faut être organisé et tant qu'à faire autant utiliser des outils sympas !
+excerpt: Les jours sont courts alors pour en profiter un maximum il faut être organisé et tant qu'à faire autant utiliser des outils sympas!
 ---
-![QTodoTxt_logo]({{site.url}}/assets/QTT256.png)
 
 J'aime bien passer du temps à me promener sur Internet au gré des liens.
 Le problème c'est que ça prend énormément de temps (Wikipedia tu me dois 3463h !) et qu'au final cela n'apporte pas grand chose (même si maintenant je sais qu'il existe un [coquillage](http://fr.wikipedia.org/wiki/Conus_geographus) pouvant tuer un homme en quelques minutes, merci Wikipedia).
 
 Le point positif c'est que j'essaye de me soigner afin de faire des choses plutôt que les regarder car la vie n'est pas en lecture seule.
 Et comme je suis un bon petit geek je fais ça avec des outils bien sympathiques qui m'aident beaucoup:
+
 * [QTodoTxt](https://github.com/mNantern/QTodoTxt) : un gestionnaire de Todo GTD multi-plateforme respectant le format todo.txt;
 * [Simple Pomodoro](https://play.google.com/store/apps/details?id=com.dacer.simplepomodoro): une appli Android permettant d'appliquer la technique Pomodoro simplement (et c'est beau en plus!);
 * [Lift](https://play.google.com/store/apps/details?id=com.liftworldwide.lift): une appli Android permettant d'accomplir n'importe quel but.
@@ -30,6 +30,7 @@ J'utilise pour cela la [méthode GTD](http://en.wikipedia.org/wiki/Getting_Thing
 
 Et il me fallait un outil allant avec cette méthode.
 Il se doit d'être:
+
 * multi-plateforme : j'ai du Linux à la maison et du Windows/Mac au travail;
 * utiliser un format simple: ici un format texte ([todo.txt](http://todotxt.com/)), c'est plus simple pour la synchro DropBox/OwnCloud;
 * toujours à portée de main pour recueillir une tâche immédiatement: il existe une appli Android/iOS utilisant le même format et se synchronisant via Dropbox.
