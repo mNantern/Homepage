@@ -103,9 +103,20 @@ ul.posts span {
     margin-left: 2em;
 }
 
+a.black {fill: #333;}
 a {fill: #FFFFFF;text-decoration: none;}
 a:hover {fill: #268ED4;}
 
+.header {
+  position: relative;
+}
+
+.rss{
+  right: 0px;
+  width: 8em;
+  top: 0px;
+  position: absolute;
+}
 
 .site .header a {
   font-weight: bold;
